@@ -3,16 +3,46 @@
   "displayName": "Bubblegum Dark Theme",
   "description": "dark theme with bubblegum reference colors",
   "version": "0.0.1",
+	"license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
   ],
-  "contributes": {
+	"maintainers": [
+		"Rene Limon Chacon <renecomes@gmail.com>"
+	],
+	"contributors": [
+		"Krzysztof Wisznarewski",
+		"Daniel Ramos",
+		"Eric Jackson",
+		"Elliott Pogue",
+		"Ajit Singh",
+		"Teddy Bradford"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/soyreneon/vscode-themes.git"
+	},
+	"bugs": {
+		"url": "https://github.com/soyreneon/vscode-themes/issues"
+	},
+	"keywords": [
+		"bubblegum",
+		"readable",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#3c4557",
+		"theme": "dark"
+	},  "contributes": {
     "themes": [
       {
-        "label": "Bublegum Dark Theme",
+        "label": "Bubblegum Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Bublegum Dark Theme-color-theme.json"
       }
