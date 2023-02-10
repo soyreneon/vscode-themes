@@ -1,0 +1,21 @@
+{
+  "name": "bubblegum-dark-theme",
+  "displayName": "Bubblegum Dark Theme",
+  "description": "dark theme with bubblegum reference colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bublegum Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bublegum Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
