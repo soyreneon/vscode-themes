@@ -10,3 +10,6 @@ Open vsc-extension-quickstart.md inside the new extension for further instructio
 on how to modify, test and publish your extension.
 
 For more information, also visit http://code.visualstudio.com and follow us @code.
+
+url to easy debug and correction
+https://themes.vscode.one/edit/1EUMv2zw

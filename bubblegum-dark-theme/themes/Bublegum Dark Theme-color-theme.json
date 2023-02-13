@@ -394,7 +394,7 @@
                 "punctuation.definition.link.restructuredtext"
             ],
             "settings": {
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -414,7 +414,7 @@
                 "markup.underline.link.image"
             ],
             "settings": {
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -506,7 +506,7 @@
                 "entity.name.class"
             ],
             "settings": {
-                "foreground": "#8BE9FD",
+                "foreground": "#2BA9FF",
                 "fontStyle": "normal"
             }
         },
@@ -532,7 +532,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -564,7 +564,7 @@
                 "comment.block.documentation entity.name.type"
             ],
             "settings": {
-                "foreground": "#8BE9FD",
+                "foreground": "#2BA9FF",
                 "fontStyle": "italic"
             }
         },
@@ -574,7 +574,7 @@
                 "comment.block.documentation entity.name.type punctuation.definition.bracket"
             ],
             "settings": {
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -723,7 +723,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -833,7 +833,7 @@
                 "variable.other.key.toml"
             ],
             "settings": {
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -894,7 +894,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -953,7 +953,7 @@
                 "punctuation.definition.character-class.regexp"
             ],
             "settings": {
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
@@ -1087,7 +1087,7 @@
                 "variable.fragment.graphql"
             ],
             "settings": {
-                "foreground": "#8BE9FD"
+                "foreground": "#2BA9FF"
             }
         },
         {
